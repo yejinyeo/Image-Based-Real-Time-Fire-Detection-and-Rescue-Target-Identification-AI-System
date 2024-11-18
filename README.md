@@ -25,7 +25,7 @@
 - 각 객체(불꽃, 연기, 사람)의 개수를 카운팅하고 화재 여부를 판단하는 조건을 설정
 
 
-#### Results and Performance
+## Results and Performance
 - **최종 화재 감지 정확도**:
   - 불꽃 (AP): 75.50%
   - 연기 (AP): 63.95%
