@@ -1,1 +1,9 @@
-# Image-Based-Real-Time-Fire-Detection-and-Rescue-Target-Identification-AI-System
+# Image Based Real Time Fire Detection and Rescue Target Identification AI System
+
+## Introduction
+본 프로젝트는 YOLO v4를 활용하여 실시간 화재 감지와 구조대상자 파악이 가능한 AI 시스템을 구현한 것입니다. 약 1700여 장의 다양한 화재 이미지를 Roboflow를 통해 수집 및 학습하여, 일상적인 화재부터 재해 상황까지 효과적으로 탐지할 수 있도록 구성했습니다. 이 시스템은 실시간으로 화재를 감지하고, 구조대상자를 식별 및 인원수를 파악하여 신속한 대응과 구조의 편의성을 제공합니다.
+
+#### 주요 기능
+- **화재 감지**: 불꽃 및 연기를 실시간으로 탐지
+- **구조대상자 파악**: 사람을 탐지하고 인원을 자동으로 계산
+- **모델 결합**: 화재 감지와 구조대상자 탐지를 통합한 시스템 구현
